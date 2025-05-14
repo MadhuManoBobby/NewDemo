@@ -1,0 +1,185 @@
+[
+    {
+        "id":101,
+        "name":"Chicken Noodles",
+        "amt" : "329",
+        "shop" : "Chinese Wok",
+        "ftype":"Noodles",
+        "pic":"https://cdn.pixabay.com/photo/2023/07/21/13/38/noodles-8141655_1280.jpg",
+        "latest" : "No"
+    },
+    {
+        "id":102,
+        "name":"Veg chilli Noodles",
+        "amt" : "289",
+        "shop" : "Chinese Wok",
+        "ftype":"Noodles",
+        "pic":"https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest" : "No"
+    },
+    {
+        "id":103,
+        "name":"Egg Hakka Noodles",
+        "amt" : "319",
+        "shop" : "Red Box",
+        "ftype":"Noodles",
+        "pic":"https://images.pexels.com/photos/9880600/pexels-photo-9880600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest" : "yes"
+    },
+    {
+        "id":104,
+        "name":"Tandoori Chicken",
+        "amt" : "390",
+        "shop" : "Foody Doo",
+        "ftype":"Chicken",
+        "pic":"https://images.pexels.com/photos/106343/pexels-photo-106343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest" : "yes"
+    },
+    {
+        "id":105,
+        "name":"Grill Chicken",
+        "amt" : "268",
+        "shop" : "Paradise",
+        "ftype":"Chicken",
+        "pic":"https://images.pexels.com/photos/9609832/pexels-photo-9609832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest" : "yes"
+    },
+    
+    {
+        "id":106,
+        "name":"Barbeque chicken",
+        "amt" : "244",
+        "shop" : "Dindugal Thalapakatti",
+        "ftype":"Chicken",
+        "pic":"https://cdn.pixabay.com/photo/2017/10/06/16/33/bbq-2823726_1280.jpg",
+        "latest" : "yes"
+    },
+    {
+        "id":107,
+        "name":"Chicken Biryani",
+        "amt" : "357",
+        "shop" : "Mani's Dhum Biryani",
+        "ftype":"Biryani",
+        "pic":"https://cdn.pixabay.com/photo/2019/11/04/12/16/rice-4601049_1280.jpg",
+        "latest" : "No"
+    },
+    {
+        "id":108,
+        "name":"Mutton Biryani",
+        "amt" : "449",
+        "shop" : "Rasavid",
+        "ftype":"Biryani",
+        "pic":"https://cdn.pixabay.com/photo/2023/10/01/16/21/ai-generated-8287729_1280.jpg",
+        "latest" : "No"
+    },
+    {
+        "id":109,
+        "name":"Chicken Pizza",
+        "amt" : "294",
+        "shop" : "Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://images.pexels.com/photos/14000428/pexels-photo-14000428.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest" : "yes"
+    },
+    {
+        "id":110,
+        "name":"Chicken Burger",
+        "amt" : "280",
+        "shop" : "KFC",
+        "ftype":"Burger",
+        "pic":"https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "latest" : "No"
+    },
+    {
+        "id":111,
+        "name":"Masala Podi Dosa",
+        "amt" : "180",
+        "shop" : "Geetham",
+        "ftype":"Dosa",
+        "pic":"https://media.istockphoto.com/id/942678290/photo/mysore-masala-dosa-served-with-sambar-and-chutney-selective-focus.jpg?s=1024x1024&w=is&k=20&c=mgzmwEgd47k-cDZK3B96oZiYUsAYLPux6fa6erwO0yg=",
+        "latest" : "No"
+    },
+    {
+        "id":112,
+        "name":"Panneer Pepper Fry",
+        "amt" : "263",
+        "shop" : "Chettinad",
+        "ftype":"Fry",
+        "pic":"https://hebbarskitchen.com/wp-content/uploads/2022/02/paneer-pepper-masala-recipe-paneer-pepper-dry-paneer-pepper-fry-2-1024x1536.jpeg.webp",
+        "latest" : "yes"
+    },
+    {
+        "id":113,
+        "name":"Strawberry milkshake",
+        "amt" : "140",
+        "shop" : "Sip and Snack",
+        "ftype":"Beverages",
+        "pic":"https://www.thehungrybites.com/wp-content/uploads/2023/06/Strawberry-milkshake-frappuccino-no-ice-cream.jpg",
+        "latest" : "No"
+    },
+    {
+        "id":114,
+        "name":"Butterscotch Milk Shake",
+        "amt" : "158",
+        "shop" : "Cool Juice",
+        "ftype":"Beverages",
+        "pic":"https://tyberrymuch.com/wp-content/uploads/2021/11/butterscotch-milkshake-feature.jpg",
+        "latest" : "No"
+    },
+    
+    {
+        "id":115,
+        "name":"Oreo milkshake",
+        "amt" : "163",
+        "shop" : "Burger king",
+        "ftype":"Beverages",
+        "pic":"https://www.whiskaffair.com/wp-content/uploads/2020/07/Oreo-Milkshake-2-1.jpg",
+        "latest" : "yes"
+    },
+    {
+        "id":116,
+        "name":"Rotisserie Chicken Sandwich",
+        "amt" : "179",
+        "shop" : "Yummy Tummy",
+        "ftype":"SandWich",
+        "pic":"https://www.eatingwell.com/thmb/7sYkf_PxmxFNi_4IF7WbRImj_Es=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rotisserie-Chicken-Sandwich-202-2000-485b673fe411460e95b512fbf805a5d9.jpg",
+        "latest" : "yes"
+    },
+    {
+        "id":117,
+        "name":"Mushroom Sandwich",
+        "amt" : "146",
+        "shop" : "Snack World",
+        "ftype":"SandWich",
+        "pic":"https://www.jeyashriskitchen.com/wp-content/uploads/2019/08/Mushroom-sandwich-recipe-1.jpg",
+        "latest" : "No"
+    },
+    {
+        "id":118,
+        "name":"Honey chicken",
+        "amt" : "234",
+        "shop" : "Cokarakko",
+        "ftype":"Chicken",
+        "pic":"https://4.bp.blogspot.com/-IB05SgVuuIA/Vhu3c0n2vvI/AAAAAAADtO4/NXazcvLldWY/s1600/1.JPG",
+        "latest" : "yes"
+    },
+    {
+        "id":119,
+        "name":"Cheese Balls",
+        "amt" : "180",
+        "shop" : "Wow Momo",
+        "ftype":"Snacks",
+        "pic":"https://www.yellowblissroad.com/wp-content/uploads/2023/11/Fried-Mashed-Potato-Balls-26.jpg",
+        "latest" : "No"
+    },
+    {
+        "id":120,
+        "name":"Mcspicy Fried chicken",
+        "amt" : "420",
+        "shop" : "Mc Donalds",
+        "ftype":"Snacks",
+        "pic":"https://mcdonaldsblog.in/wp-content/uploads/2021/05/Mcspicy-fried-chicken.jpg",
+        "latest" : "yes"
+    }
+    
+    ]
